@@ -24,6 +24,8 @@ A simple configuration for LSTM is Vanilla LSTM. It simply do a sequence predict
 
 <p align="center">
   <img src="./pic/2.png" />
+  
+  Mahmoud Tahmasebi
 </p>
 
 
